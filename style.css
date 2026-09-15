@@ -258,3 +258,13 @@
     color: #475569;
     line-height: 1.6;
 }
+.boton-hero {
+    text-decoration: none;
+    background-color: #0f172a;
+    color: #ffffff;
+    padding: 14px 28px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 15px;
+    width: fit-content;
+}
