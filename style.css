@@ -268,3 +268,14 @@
     font-size: 15px;
     width: fit-content;
 }
+.hero-imagen-contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-imagen {
+    display: block;
+    width: 480px;
+    border-radius: 12px;
+}
