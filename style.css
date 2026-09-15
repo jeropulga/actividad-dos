@@ -214,3 +214,12 @@
     color: #64748b;
     font-size: 15px;
 }
+.boton-registrarse {
+    text-decoration: none;
+    background-color: #10b981;
+    color: #ffffff;
+    padding: 10px 22px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 14px;
+}
