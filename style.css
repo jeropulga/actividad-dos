@@ -185,3 +185,22 @@
     background-color: #ffffff;
     border-bottom: 1px solid #e2e8f0;
 }
+.contenedor-logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo-icono {
+    display: block;
+    width: 24px;
+    height: 24px;
+    background-color: #10b981;
+    border-radius: 50%;
+}
+
+.logo-texto {
+    font-size: 20px;
+    font-weight: 700;
+    color: #0f172a;
+}
