@@ -204,3 +204,13 @@
     font-weight: 700;
     color: #0f172a;
 }
+.nav-principal {
+    display: flex;
+    gap: 40px;
+}
+
+.nav-enlace {
+    text-decoration: none;
+    color: #64748b;
+    font-size: 15px;
+}
