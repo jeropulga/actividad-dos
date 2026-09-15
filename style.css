@@ -239,3 +239,22 @@
     max-width: 1200px;
     width: 100%;
 }
+.hero-contenido {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    max-width: 520px;
+}
+
+.hero-titulo {
+    font-size: 48px;
+    font-weight: 800;
+    color: #0f172a;
+    line-height: 1.15;
+}
+
+.hero-parrafo {
+    font-size: 18px;
+    color: #475569;
+    line-height: 1.6;
+}
